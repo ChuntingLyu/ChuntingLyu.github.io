@@ -11,7 +11,7 @@ I am an Econ PhD student from Georgia Institute of Technology, Atlanta GA, USA. 
 
 You can find my CV here: [ChuntingLyu's CV](../assets/CV.pdf)
 
-[Email](clyu31@gatech.edu)/[Github](https://github.com/ChuntingLyu)/[Wechat](../imgaes/wechat.jpg)
+[Email](mailto:clyu31@gatech.edu)/[Github](https://github.com/ChuntingLyu)/[Wechat](../imgaes/wechat.jpg)
 
 A data-driven personal website
 ======

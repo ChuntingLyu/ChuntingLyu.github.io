@@ -1,11 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "The 93rd Annual Meeting of the Southern Economic Association"
 collection: talks
-type: "Tutorial"
+type: "Conference Presentation"
 permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+venue: "Southern Economic Association"
+date: November 19, 2023
+location: "New Orleans LA, USA"
 ---
 
 [More information here](http://exampleurl.com)

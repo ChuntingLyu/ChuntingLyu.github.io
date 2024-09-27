@@ -2,7 +2,7 @@
 title: "ECON2101 The Global Economy"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: #/teaching/2014-spring-teaching-1
 venue: "Georgia Institute of Technology, School of Economics"
 date: 2022
 location: "Atlanta, GA"

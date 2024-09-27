@@ -1,11 +1,11 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "The South East Exchange of Development Studies 3rd Annual Conference"
 collection: talks
-type: "Talk"
+type: "Conference presentation"
 permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+venue: "Georgia Tech"
+date: April 27, 2023
+location: "Atlanta GA, USA"
 ---
 
 [More information here](http://example2.com)

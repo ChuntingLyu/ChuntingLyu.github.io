@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Econ PhD student from Georgia Institute of Technology, Atlanta GA, USA. My research interest included developmental economics, female empowerment, and well-being.
+I am a PhD candidate in Economics at Georgia Institute of Technology, where my research focuses on developmental economics. My work is particularly centered around gender equality, non-marital cohabitation and marriage transitions, aiming to uncover how relationship changes influence well-being over time.
 
 You can find my CV here: [ChuntingLyu's CV](../assets/CV.pdf)
 

@@ -11,43 +11,86 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, Georgia Institute of Technology, 2025 (expected)
+* M.S. in Economics, Georgia Institute of Technology, 2023
+* B.B.A. in Quantitative Finance and Econometrics, University of West Alabama, 2019
+* Bachelor of Economics and Finance, Guangdong University of Finance, 2019
 
+  
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* Spring 2024: Teaching Assistant
+  * Georgia Institute of Technology
+  * ECON4190 Game Theory II, ECON7013 Microeconomic Theory II
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Teaching Assistant
+  * Georgia Institute of Technology
+  * ECON6200 Money and Capital Markets
+  * Supervisor: Professor Hub
+
+* Spring 2023: Teaching Assistant
+  * Georgia Institute of Technology
+  * ECON6160 Econometrics II, ECON7023 Econometrics II
+  * Supervisor: Professor Hub
+
+* Summer 2022: Teaching Assistant
+  * Georgia Institute of Technology
+  * ECON2101 The Global Economy, ECON6380 Economic of Environment
+  * Supervisor: Professor Hub
+
+* Spring 2022: Teaching Assistant
+  * Georgia Institute of Technology
+  * ECON6110 Econ-Corporate Strategy
+  * Supervisor: Professor Hub
+
+* Fall 2021: Teaching Assistant
+  * Georgia Institute of Technology
+  * ECON2101 The Global Economy
+  * Supervisor: Professor Hub
+
+* Spring 2021: Teaching Assistant
+  * Georgia Institute of Technology
+  * ECON3120 Advanced Macroeconomics
+  * Supervisor: Professor Hub
+
+* Fall 2020: Teaching Assistant
+  * Georgia Institute of Technology
+  * ECON4811/8801 Empirical Practicum I: SAS Base Programming
+  * Supervisor: Professor Hub
+
+* Spring 2020: Teaching Assistant
+  * Georgia Institute of Technology
+  * ECON2105 Principles of Macroeconomics
+  * ECON4610 Seminar-Economic Policy
+  * Supervisor: Professor Hub
+
+* Fall 2019: Teaching Assistant
+  * Georgia Institute of Technology
+  * ECON4311 Global Enterprise
+  * Supervisor: Professor Hub
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages:
+  * English (Fluent)
+  * Mandarin (Native)
+  * Cantonese (Conversational)
+* Computer Skills
+  * Stata
+  * R
+  * EViews
+  * LATEX
+  * VBA
 
-Publications
+Working papers
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentation
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -59,6 +102,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

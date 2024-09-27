@@ -16,7 +16,7 @@ Education
 * B.B.A. in Quantitative Finance and Econometrics, University of West Alabama, 2019
 * Bachelor of Economics and Finance, Guangdong University of Finance, 2019
 
-  
+
 Work experience
 ======
 * Spring 2024: Teaching Assistant

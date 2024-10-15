@@ -1,7 +1,7 @@
 ---
 title: "Change in Legal Marriageable Age and Female Well-being Indicators"
 collection: working papers
-permalink: #/teaching/2015-spring-teaching-1
+permalink: /workingpapers/workingpaper1
 venue: "Georgia Institute of Technology"
 year: 2023
 ---

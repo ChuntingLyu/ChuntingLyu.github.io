@@ -8,4 +8,3 @@ date: April 26, 2024
 location: "Atlanta, GA"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!

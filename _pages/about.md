@@ -14,4 +14,4 @@ Before starting my PhD, I completed my Economics and Finance Bachelor Degree in 
 
 You can find my CV here: [ChuntingLyu's CV](../assets/CV.pdf)
 
-[Email](mailto:clyu31@gatech.edu)/[Github](https://github.com/ChuntingLyu)/[Wechat](../imgaes/wechat.jpg)
+[Email](mailto:clyu31@gatech.edu)/[Github](https://github.com/ChuntingLyu)

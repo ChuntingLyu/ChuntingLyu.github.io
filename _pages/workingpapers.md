@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
 * Change in Legal Marriageable Age and Female Well-being Indicators
   * Abstract: This article explores the relationship between the increase in the legal marriageable age adopted in January 1981 and female empowerment and well-being indicators in China. We make use of the 2010 wave of China Family Panel Studies data. We observe that the adoption of the law led to an increase in age at first marriage for the cohorts of women affected by the law. We further find that women in these cohorts report higher well-being indicators: confidence in the future, life satisfaction, happiness, and self-evaluated social status.
   * Keywords: Marriage, Female Empowerment, Well-being Indicators
